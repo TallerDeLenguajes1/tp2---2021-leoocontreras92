@@ -1,0 +1,1 @@
+f) No es posible ver el archivo tp2_1_2.cpp porque, al pertenecer a la rama Opcion_2 y hacer git checkout master y cambiar a la rama principal este deja de ser accesible para nosotros.
